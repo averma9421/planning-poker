@@ -1,4 +1,4 @@
-package com.devglan.config;
+package com.planningpoker.config;
 
 import com.google.gson.Gson;
 import org.springframework.stereotype.Component;

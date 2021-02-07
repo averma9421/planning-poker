@@ -1,4 +1,4 @@
-package com.devglan.config;
+package com.planningpoker.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
